@@ -1,6 +1,6 @@
 ## Hi, I'm Nikolay 👋
 
-I'm a self-taught developer and 3D artist looking for my first role as a **Junior Software Developer** or **QA Tester**. 
+I'm a self-taught developer and [3D artist](https://www.artstation.com/unluckynikolay) looking for my first role as a **Junior Software Developer** or **QA Tester**. 
 
 I enjoy building things and making them better - most of my projects started simple and grew as I learned new techniques.
 
