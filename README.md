@@ -6,7 +6,7 @@ I enjoy building things and making them better - most of my projects started sim
 
 My ultimate goal is to learn how to build games and useful software "from scratch" (without inventing [the universe](https://www.youtube.com/watch?v=BkHCO8f2TWs)).
 
-Currently learning through Boot.dev and working on personal projects in **Python**, **Go**, and **C#**.
+Currently learning **Godot** game engine and its language **GDScript**.
 
 ## Technologies and Tools
 
@@ -25,11 +25,6 @@ Currently learning through Boot.dev and working on personal projects in **Python
 	A game about shooting Asteroids in space.  
 	Built using Pygame with vector graphics.  
 	Learning how to implement different game mechanics.
-
-* [Pokedex](https://github.com/UnLuckyNikolay/pokedex):
-
-	CLI exploration tool for Pokemon.  
-	Learning HTTP clients, JSON decoding, and caching while practicing Go syntax.
 
 ## Boot.dev Progress
 
