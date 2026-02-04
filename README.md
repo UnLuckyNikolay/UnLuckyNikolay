@@ -15,6 +15,7 @@ Currently learning **Godot** game engine and its language **GDScript**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Golang" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL" height="64" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" height="64" width="64"/>
 </p>
 
@@ -25,6 +26,12 @@ Currently learning **Godot** game engine and its language **GDScript**.
 	A game about shooting Asteroids in space.  
 	Built using Pygame with vector graphics.  
 	Learning how to implement different game mechanics.
+
+* Frogger:
+
+    A small frogger-like 2D game with horror elements build in Godot.  
+    Learning basics of Godot and GDScript.  
+    Kept private for now.
 
 ## Boot.dev Progress
 
